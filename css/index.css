@@ -1,9 +1,11 @@
-<<<<<<< HEAD
-p{
-    color:pink,
+p {
+    color: pink,
 }
-=======
+
 h1 {
     color: rebeccapurple;
 }
->>>>>>> b9fb759ec17bf0399090d0da23ca2948e0f121bf
+
+h2 {
+    color: red;
+}
